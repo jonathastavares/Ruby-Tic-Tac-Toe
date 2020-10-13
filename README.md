@@ -1,2 +1,6 @@
-# Ruby-Tic-Tac-Toe
-This is my Tic-Tac-Toe project @ Microverse using Ruby.
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Enumerable Methods
+
+> This is the project setup for Tic-Tac-Toe Game
+![screenshot](/screenshot.jpg)
